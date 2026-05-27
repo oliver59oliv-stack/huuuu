@@ -1,0 +1,6 @@
+{
+  "name": "Music Player",
+  "description": "A beautiful and interactive offline/online music player with playlist support, beautiful visualizations, and native controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
